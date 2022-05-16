@@ -1,0 +1,26 @@
+.container {
+  background-color: bisque;
+  height: 500px;
+  width: 250px;
+  padding: 20px 0px 0px 29px;
+  border-radius: 50px;
+}
+.btn {
+  background-color: black;
+  width: 150px;
+  height: 50px;
+  color: #fff;
+  border: 0px;
+  border-radius: 50px;
+}
+img {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  transition: all 1s;
+  border-radius: 50px;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
